@@ -13,4 +13,7 @@ To run this project please follow the steps below:
 of Google here: https://www.youtube.com/watch?v=JH5CWFtoG-k&list=PLc2Ziv7051bZhBeJlJaqq5lrQuVmBJL6A&index=10)
 7. Make sure the values for the base URLs in FaceRecognitionConstants class in Constants.cs are the same with the URLs in FACE RECOGNITION API
 8. Make sure FACE RECOGNITION API is running
-6. Run the application
+9. Run the application
+10. Default Account has the following credentials:
+* Id Number: ADMIN
+* Password: ADMIN
